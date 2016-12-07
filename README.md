@@ -1,2 +1,2 @@
-# VideoConferenceNumberUtil
-Java library for parsing, formatting, and validating video conference numbers/addresses.
+# Video Conference Number Utilities
+Java library for parsing, formatting, and validating conference numbers (email, IP, phone numbers).
